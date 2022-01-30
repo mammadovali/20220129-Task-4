@@ -1,0 +1,16 @@
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.ClassTask4\ConsoleApp.Class_Car\obj\Debug\net5.0\ConsoleApp.Class_Car.csproj.AssemblyReference.cache
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.ClassTask4\ConsoleApp.Class_Car\obj\Debug\net5.0\ConsoleApp.Class_Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.ClassTask4\ConsoleApp.Class_Car\obj\Debug\net5.0\ConsoleApp.Class_Car.AssemblyInfoInputs.cache
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.ClassTask4\ConsoleApp.Class_Car\obj\Debug\net5.0\ConsoleApp.Class_Car.AssemblyInfo.cs
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.ClassTask4\ConsoleApp.Class_Car\obj\Debug\net5.0\ConsoleApp.Class_Car.csproj.CoreCompileInputs.cache
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.ClassTask4\ConsoleApp.Class_Car\bin\Debug\net5.0\ConsoleApp.Class_Car.exe
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.ClassTask4\ConsoleApp.Class_Car\bin\Debug\net5.0\ConsoleApp.Class_Car.deps.json
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.ClassTask4\ConsoleApp.Class_Car\bin\Debug\net5.0\ConsoleApp.Class_Car.runtimeconfig.json
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.ClassTask4\ConsoleApp.Class_Car\bin\Debug\net5.0\ConsoleApp.Class_Car.runtimeconfig.dev.json
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.ClassTask4\ConsoleApp.Class_Car\bin\Debug\net5.0\ConsoleApp.Class_Car.dll
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.ClassTask4\ConsoleApp.Class_Car\bin\Debug\net5.0\ref\ConsoleApp.Class_Car.dll
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.ClassTask4\ConsoleApp.Class_Car\bin\Debug\net5.0\ConsoleApp.Class_Car.pdb
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.ClassTask4\ConsoleApp.Class_Car\obj\Debug\net5.0\ConsoleApp.Class_Car.dll
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.ClassTask4\ConsoleApp.Class_Car\obj\Debug\net5.0\ref\ConsoleApp.Class_Car.dll
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.ClassTask4\ConsoleApp.Class_Car\obj\Debug\net5.0\ConsoleApp.Class_Car.pdb
+C:\Users\Əli\Desktop\C#(homework1)\ConsoleApp.ClassTask4\ConsoleApp.Class_Car\obj\Debug\net5.0\ConsoleApp.Class_Car.genruntimeconfig.cache
